@@ -29,3 +29,6 @@ The data was collected by crawling Amazon website and contains product metadata 
 * Similar: ASINs of co-purchased products (People who buy X also buy Y)
 * Categories: Location in product category hierarchy to which the product belongs
 * Reviews: time, user id, rating, total number of votes on the review, total number of helpfulness votes
+
+### Source (citation)
+J. Leskovec, L. Adamic and B. Adamic. [The Dynamics of Viral Marketing](http://www.cs.cmu.edu/~jure/pubs/viral-tweb.pdf). ACM Transactions on the Web (ACM TWEB), 2007.
